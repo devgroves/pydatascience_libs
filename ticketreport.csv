@@ -1,0 +1,5 @@
+category,subcategory,ticketnumber,mttrhours,metsla,unmetsla,unknown,total
+c1,sc1,t1,10,1,0,0,1
+c1,sc1,t2,10,1,0,0,1
+c1,sc1,t3,10,0,1,0,1
+c1,sc2,t4,10,1,0,0,1
